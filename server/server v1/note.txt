@@ -1,0 +1,1 @@
+the database connection is not working on the server file of pycharm but is working on windows
